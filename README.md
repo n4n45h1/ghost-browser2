@@ -13,4 +13,4 @@ Ghost BrowserはiPhone時間制限をすり抜けられるウェブブラウザ�
 こちらのアプリを開くことで使用可能です。
 ## 注意
 • Googleなどのサービスはiframeの適用を禁止しているので、一部サイトでは正常に開くことはできない可能性があります。
-そのため、代用として[こちら](https://rhproxy.weborg.xyz)のサイトを使用してください。使い方は[使い方.txt](https://github.com/zenon-i/使い方.md)を見てください。
+そのため、代用として[こちら](https://rh1.ext.rocks)のサイトを使用してください。使い方は[使い方.txt](https://github.com/zenon-i/使い方.md)を見てください。
